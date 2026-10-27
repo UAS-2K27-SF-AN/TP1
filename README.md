@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 À propos du projet :
 
 j'ai créé une petite application avec Symfony 7 pour comprendre le fonctionnement de base du framework. 
@@ -13,3 +14,6 @@ j'ai d'abord créé le projet Symfony,
 j'ai ajouté le contrôleur HelloController.php dans src/Controller/ avec ses deux routes. 
 j'ai créé le template index.html.twig dans templates/hello/ pour afficher la variable name. 
 J'ai lancé le serveur avec symfony server:start et j'ai testé les deux adresses dans le navigateur pour vérifier que tout fonctionnait. 
+=======
+# TP1
+>>>>>>> cf992e5f366e3d0670d98b722e45c6ca796e5fcc
